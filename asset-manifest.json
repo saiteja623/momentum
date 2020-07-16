@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/momentum/static/css/main.8c25f601.chunk.css",
-    "main.js": "/momentum/static/js/main.9cd4195d.chunk.js",
-    "main.js.map": "/momentum/static/js/main.9cd4195d.chunk.js.map",
+    "main.css": "/momentum/static/css/main.d8b10060.chunk.css",
+    "main.js": "/momentum/static/js/main.44961aaf.chunk.js",
+    "main.js.map": "/momentum/static/js/main.44961aaf.chunk.js.map",
     "runtime-main.js": "/momentum/static/js/runtime-main.de89ae0f.js",
     "runtime-main.js.map": "/momentum/static/js/runtime-main.de89ae0f.js.map",
     "static/js/2.64a2b9fc.chunk.js": "/momentum/static/js/2.64a2b9fc.chunk.js",
     "static/js/2.64a2b9fc.chunk.js.map": "/momentum/static/js/2.64a2b9fc.chunk.js.map",
     "index.html": "/momentum/index.html",
-    "precache-manifest.d73afd7f748ec1eb79f43de3a9c0e2d9.js": "/momentum/precache-manifest.d73afd7f748ec1eb79f43de3a9c0e2d9.js",
+    "precache-manifest.93b38ee069c4080698b56dc72821dd49.js": "/momentum/precache-manifest.93b38ee069c4080698b56dc72821dd49.js",
     "service-worker.js": "/momentum/service-worker.js",
-    "static/css/main.8c25f601.chunk.css.map": "/momentum/static/css/main.8c25f601.chunk.css.map",
+    "static/css/main.d8b10060.chunk.css.map": "/momentum/static/css/main.d8b10060.chunk.css.map",
     "static/js/2.64a2b9fc.chunk.js.LICENSE.txt": "/momentum/static/js/2.64a2b9fc.chunk.js.LICENSE.txt",
     "static/media/aft1.jpg": "/momentum/static/media/aft1.938e334e.jpg",
     "static/media/aft2.jpg": "/momentum/static/media/aft2.c1672133.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.de89ae0f.js",
     "static/js/2.64a2b9fc.chunk.js",
-    "static/css/main.8c25f601.chunk.css",
-    "static/js/main.9cd4195d.chunk.js"
+    "static/css/main.d8b10060.chunk.css",
+    "static/js/main.44961aaf.chunk.js"
   ]
 }
